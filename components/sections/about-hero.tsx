@@ -1,6 +1,7 @@
 "use client"
 
 import { motion } from "framer-motion"
+import Image from "next/image"
 import { Award, Users, Target, Heart } from "lucide-react"
 import { Reveal } from "@/components/ui/reveal"
 import { GlassCard } from "@/components/ui/glass-card"
@@ -25,10 +26,15 @@ export function AboutHero() {
                 transition={{ duration: 0.3 }}
                 className="relative"
               >
-                <div className="aspect-[4/5] bg-gradient-to-br from-amethyst-100 via-white to-rose-100 rounded-3xl overflow-hidden shadow-2xl">
-                  <div className="w-full h-full bg-gradient-to-br from-amethyst-200 to-rose-200 flex items-center justify-center">
-                    <div className="text-8xl">👩‍💼</div>
-                  </div>
+                <div className="aspect-[4/5] bg-gradient-to-br from-amethyst-100 via-white to-rose-100 rounded-3xl overflow-hidden shadow-2xl relative">
+                  <Image
+                    src="/assets/photos/About.jpg"
+                    alt="Anita D&apos;Souza - Life & Success Coach"
+                    fill
+                    className="object-cover"
+                    priority
+                    quality={90}
+                  />
                 </div>
                 
                 {/* Floating Quote */}
