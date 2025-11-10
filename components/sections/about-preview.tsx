@@ -2,6 +2,7 @@
 
 import { motion } from "framer-motion"
 import Link from "next/link"
+import Image from "next/image"
 import { Button } from "@/components/ui/button"
 import { Reveal } from "@/components/ui/reveal"
 import { GlassCard } from "@/components/ui/glass-card"
@@ -31,11 +32,15 @@ export function AboutPreview() {
                 transition={{ duration: 0.3 }}
                 className="relative"
               >
-                <div className="aspect-[4/5] bg-gradient-to-br from-amethyst-100 to-rose-100 rounded-3xl overflow-hidden shadow-2xl">
-                  {/* Placeholder for portrait */}
-                  <div className="w-full h-full bg-gradient-to-br from-amethyst-200 to-rose-200 flex items-center justify-center">
-                    <div className="text-6xl text-amethyst-400">👩‍💼</div>
-                  </div>
+                <div className="aspect-[4/5] bg-gradient-to-br from-amethyst-100 to-rose-100 rounded-3xl overflow-hidden shadow-2xl relative">
+                  <Image
+                    src="/assets/photos/main.jpg"
+                    alt="Anita D&apos;Souza - Life & Success Coach"
+                    fill
+                    className="object-cover"
+                    priority
+                    quality={90}
+                  />
                 </div>
                 
                 {/* Floating Elements */}
