@@ -34,9 +34,9 @@ export function AboutHero() {
                 {/* Floating Quote */}
                 <GlassCard className="absolute -right-6 top-1/4 max-w-xs p-6 hidden lg:block">
                   <p className="text-sm italic text-slate-700 mb-3">
-                    "At The Comeback Code, every client is more than a learner—they're a story of resilience, determination, and transformation."
+                    &quot;At The Comeback Code, every client is more than a learner—they&apos;re a story of resilience, determination, and transformation.&quot;
                   </p>
-                  <div className="text-xs font-semibold text-amethyst-600">— Anita J. D'Souza</div>
+                  <div className="text-xs font-semibold text-amethyst-600">— Anita J. D&apos;Souza</div>
                 </GlassCard>
               </motion.div>
             </div>
@@ -51,19 +51,19 @@ export function AboutHero() {
                 </h1>
                 <div className="space-y-6 text-lg text-slate-600 leading-relaxed">
                   <p>
-                    Life doesn't always go as planned, and career journeys can take unexpected turns. 
-                    Whether it's a sabbatical, career break, or a challenging phase, many professionals 
+                    Life doesn&apos;t always go as planned, and career journeys can take unexpected turns. 
+                    Whether it&apos;s a sabbatical, career break, or a challenging phase, many professionals 
                     feel invisible, stuck, or unsure about their next step.
                   </p>
                   <p>
-                    That's where The Comeback Code comes in. We help you rediscover your confidence, 
+                    That&apos;s where The Comeback Code comes in. We help you rediscover your confidence, 
                     sharpen your skills, and reclaim your professional power. Through personalized coaching, 
                     practical strategies, and guidance rooted in real-world experience, we equip you with 
                     the tools to not just return to the workforce—but to thrive and stand out.
                   </p>
                   <p>
                     Our programs focus on in-demand soft skills like communication, emotional intelligence, 
-                    adaptability, leadership, and teamwork. We don't just teach skills; we help you apply 
+                    adaptability, leadership, and teamwork. We don&apos;t just teach skills; we help you apply 
                     them in real-life situations, gain visibility, and create the career growth you deserve.
                   </p>
                 </div>

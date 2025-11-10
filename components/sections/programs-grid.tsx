@@ -204,7 +204,7 @@ export function ProgramsGrid() {
 
                       {/* Features */}
                       <div className="mb-6">
-                        <h4 className="font-semibold text-cc-charcoal mb-3">What's Included:</h4>
+                        <h4 className="font-semibold text-cc-charcoal mb-3">What&apos;s Included:</h4>
                         <ul className="space-y-2">
                           {program.features.map((feature, idx) => (
                             <li key={idx} className="flex items-center text-sm text-cc-slate">

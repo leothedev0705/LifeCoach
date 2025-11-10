@@ -28,8 +28,8 @@ export default function NotFound() {
             </h1>
             
             <p className="text-xl text-slate-600 mb-8 leading-relaxed">
-              Looks like you've wandered off the path to transformation. 
-              Don't worry, even the most successful people take detours sometimes!
+              Looks like you&apos;ve wandered off the path to transformation. 
+              Don&apos;t worry, even the most successful people take detours sometimes!
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">

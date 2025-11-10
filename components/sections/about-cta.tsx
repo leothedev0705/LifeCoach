@@ -16,7 +16,7 @@ export function AboutCTA() {
               Ready to <span className="text-gradient">Start Your Comeback?</span>
             </h2>
             <p className="text-xl text-slate-600 max-w-3xl mx-auto">
-              Don't let career breaks or challenges hold you back. Join hundreds of professionals 
+              Don&apos;t let career breaks or challenges hold you back. Join hundreds of professionals 
               who have rediscovered their confidence and achieved career success with The Comeback Code.
             </p>
           </div>
@@ -29,7 +29,7 @@ export function AboutCTA() {
                 {/* Personal Introduction */}
                 <div className="space-y-4">
                   <h3 className="text-2xl md:text-3xl font-playfair font-bold text-slate-800">
-                    Hi, I'm Anita J. D'Souza
+                    Hi, I&apos;m Anita J. D&apos;Souza
                   </h3>
                   <p className="text-lg text-slate-600 leading-relaxed max-w-3xl mx-auto">
                     I come from a long line of high-achieving professionals, but after choosing to focus 
@@ -38,7 +38,7 @@ export function AboutCTA() {
                   </p>
                   <p className="text-lg text-slate-600 leading-relaxed max-w-3xl mx-auto">
                     With over 20 years of corporate experience, including 15 years as a soft skills 
-                    trainer and leadership mentor, I've guided hundreds of professionals to rediscover 
+                    trainer and leadership mentor, I&apos;ve guided hundreds of professionals to rediscover 
                     their confidence, enhance their communication, and excel in their careers.
                   </p>
                   <p className="text-lg text-slate-600 leading-relaxed max-w-3xl mx-auto">

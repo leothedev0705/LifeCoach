@@ -74,7 +74,7 @@ export function ContactForm() {
               Message Sent Successfully!
             </h3>
             <p className="text-slate-600 mb-6">
-              Thank you for reaching out! I'll get back to you within 24 hours 
+              Thank you for reaching out! I&apos;ll get back to you within 24 hours 
               with personalized guidance for your career comeback journey.
             </p>
             <div className="text-sm text-slate-500">
@@ -162,7 +162,7 @@ export function ContactForm() {
                 <option value="leadership-development">Leadership Development Program</option>
                 <option value="career-comeback-mastermind">Career Comeback Mastermind</option>
                 <option value="corporate-training">Corporate Soft Skills Training</option>
-                <option value="unsure">I'm not sure yet</option>
+                <option value="unsure">I&apos;m not sure yet</option>
               </select>
             </div>
           </div>

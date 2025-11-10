@@ -41,7 +41,7 @@ export function AboutSection() {
         <Reveal>
           <div className="text-center mb-16">
             <h2 className="text-4xl md:text-6xl font-playfair font-bold text-slate-800 mb-6">
-              Meet <span className="text-gradient">Anita D'Souza</span>
+              Meet <span className="text-gradient">Anita D&apos;Souza</span>
             </h2>
             <p className="text-xl text-slate-600 max-w-3xl mx-auto">
               Your trusted partner in transformation, helping ambitious individuals 
@@ -90,7 +90,7 @@ export function AboutSection() {
                 </h3>
                 <div className="space-y-4 text-lg text-slate-600 leading-relaxed">
                   <p>
-                    With over a decade of experience in personal development, I've dedicated 
+                    With over a decade of experience in personal development, I&apos;ve dedicated 
                     my life to helping extraordinary individuals like you break through 
                     limitations and create lives of purpose, passion, and prosperity.
                   </p>
@@ -100,8 +100,8 @@ export function AboutSection() {
                     your inner world and external goals.
                   </p>
                   <p>
-                    Whether you're seeking career advancement, personal fulfillment, or 
-                    complete life transformation, I'm here to guide you every step of the way.
+                    Whether you&apos;re seeking career advancement, personal fulfillment, or 
+                    complete life transformation, I&apos;m here to guide you every step of the way.
                   </p>
                 </div>
               </div>

@@ -116,7 +116,7 @@ export function AboutMedia() {
               </div>
               
               <p className="text-slate-600 leading-relaxed">
-                Anita's expertise in professional development and career comeback strategies 
+                Anita&apos;s expertise in professional development and career comeback strategies 
                 has been recognized across industry publications, helping professionals worldwide 
                 rediscover their confidence and excel in their careers.
               </p>

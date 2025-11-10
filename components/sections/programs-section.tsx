@@ -163,7 +163,7 @@ export function ProgramsSection() {
               onClick={() => scrollToSection("contact")}
             >
               <Heart className="w-5 h-5" />
-              <span className="font-medium">Not sure which program is right for you? Let's chat!</span>
+              <span className="font-medium">Not sure which program is right for you? Let&apos;s chat!</span>
             </motion.div>
           </div>
         </Reveal>

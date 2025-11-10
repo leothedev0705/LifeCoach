@@ -139,7 +139,7 @@ export default makeSource({
     rehypePlugins: [
       rehypeSlug,
       [
-        rehypePrettyCode,
+        rehypePrettyCode as any,
         {
           theme: 'github-light',
           onVisitLine(node: any) {

@@ -123,7 +123,7 @@ export function CTASection() {
                     Thank You!
                   </h4>
                   <p className="text-slate-600">
-                    I'll be in touch within 24 hours to schedule your free consultation.
+                    I&apos;ll be in touch within 24 hours to schedule your free consultation.
                   </p>
                 </motion.div>
               )}

@@ -66,7 +66,7 @@ export function BookCTA() {
               Your <span className="text-white/90">Transformation</span> Starts Today
             </h2>
             <p className="text-xl md:text-2xl text-white/90 max-w-3xl mx-auto leading-relaxed">
-              Don't wait another day to start living the extraordinary life you deserve. 
+              Don&apos;t wait another day to start living the extraordinary life you deserve. 
               Get your copy now and begin your breakthrough journey.
             </p>
           </div>
@@ -174,7 +174,7 @@ export function BookCTA() {
                   100% Satisfaction Guarantee
                 </h3>
                 <p className="text-slate-600 mb-6">
-                  If you don't love the book and see real results within 30 days, 
+                  If you don&apos;t love the book and see real results within 30 days, 
                   get your money back—no questions asked.
                 </p>
                 <div className="text-sm text-slate-500">

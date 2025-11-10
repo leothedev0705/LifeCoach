@@ -47,7 +47,7 @@ export function BookPreview() {
                     </h3>
                     <div className="w-16 h-0.5 bg-white/60 mx-auto mb-4" />
                     <p className="text-white/90 text-lg font-medium">
-                      ANITA D'SOUZA
+                      ANITA D&apos;SOUZA
                     </p>
                   </div>
                   
@@ -104,7 +104,7 @@ export function BookPreview() {
               <p className="text-xl text-slate-600 mb-8 leading-relaxed">
                 A transformational guide that reveals the exact strategies successful people 
                 use to overcome obstacles, silence self-doubt, and create the extraordinary 
-                life they've always dreamed of.
+                life they&apos;ve always dreamed of.
               </p>
 
               {/* Key Benefits */}
@@ -112,7 +112,7 @@ export function BookPreview() {
                 <div className="flex items-start space-x-3">
                   <div className="w-2 h-2 bg-amethyst-500 rounded-full mt-2 flex-shrink-0" />
                   <p className="text-slate-700">
-                    <strong>Proven Framework:</strong> The exact 8-step system I've used with 1000+ clients
+                    <strong>Proven Framework:</strong> The exact 8-step system I&apos;ve used with 1000+ clients
                   </p>
                 </div>
                 <div className="flex items-start space-x-3">
@@ -132,7 +132,7 @@ export function BookPreview() {
               {/* Chapter Preview */}
               <div className="mb-8">
                 <h3 className="text-2xl font-playfair font-bold text-slate-800 mb-4">
-                  What You'll Learn
+                  What You&apos;ll Learn
                 </h3>
                 <div className="grid gap-2">
                   {chapters.slice(0, 4).map((chapter, index) => (

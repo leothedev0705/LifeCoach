@@ -45,7 +45,7 @@ export function ProgramsCTA() {
               Ready to <span className="text-white/90">Transform</span> Your Life?
             </h2>
             <p className="text-xl md:text-2xl text-white/90 max-w-3xl mx-auto leading-relaxed">
-              Take the first step toward your extraordinary future. Let's find the perfect 
+              Take the first step toward your extraordinary future. Let&apos;s find the perfect 
               program to unlock your full potential.
             </p>
           </div>
@@ -101,7 +101,7 @@ export function ProgramsCTA() {
                 </h3>
                 <p className="text-slate-600 mb-6 leading-relaxed">
                   Send me a message with your questions about the programs, 
-                  pricing, or anything else. I'll respond within 24 hours.
+                  pricing, or anything else. I&apos;ll respond within 24 hours.
                 </p>
                 <div className="space-y-3 mb-6">
                   <div className="flex items-center text-sm text-slate-600">
@@ -137,8 +137,8 @@ export function ProgramsCTA() {
                   Ready to Start?
                 </h3>
                 <p className="text-slate-600 mb-6 leading-relaxed">
-                  If you know which program you want and you're ready to begin 
-                  your transformation journey, let's get you enrolled today.
+                  If you know which program you want and you&apos;re ready to begin 
+                  your transformation journey, let&apos;s get you enrolled today.
                 </p>
                 <div className="space-y-3 mb-6">
                   <div className="flex items-center text-sm text-slate-600">
@@ -172,9 +172,9 @@ export function ProgramsCTA() {
                 100% Satisfaction Guarantee
               </h3>
               <p className="text-slate-600 leading-relaxed mb-6">
-                I'm so confident in the value of my coaching programs that I offer a 
-                30-day money-back guarantee. If you're not completely satisfied with 
-                your experience, I'll refund your investment in full.
+                I&apos;m so confident in the value of my coaching programs that I offer a 
+                30-day money-back guarantee. If you&apos;re not completely satisfied with 
+                your experience, I&apos;ll refund your investment in full.
               </p>
               <div className="flex justify-center items-center space-x-2 text-sm text-slate-500">
                 <span>🛡️ Risk-free enrollment</span>

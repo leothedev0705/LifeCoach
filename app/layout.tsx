@@ -1,4 +1,4 @@
-import type { Metadata } from 'next'
+import type { Metadata, Viewport } from 'next'
 import { Playfair_Display, Poppins } from 'next/font/google'
 import './globals.css'
 
@@ -16,6 +16,7 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
+  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'https://anitadsouza.com'),
   title: 'Anita D\'Souza - Life & Success Coach | Transform Your Life Today',
   description: 'Unlock your potential with Anita D\'Souza, a certified life and success coach. Offering 1-on-1 coaching, group programs, and corporate workshops to help you achieve your goals.',
   keywords: 'life coach, success coach, personal development, transformation, coaching, motivation, goals',
@@ -31,8 +32,12 @@ export const metadata: Metadata = {
     title: 'Anita D\'Souza - Life & Success Coach',
     description: 'Transform your life with personalized coaching programs designed to unlock your full potential.',
   },
-  viewport: 'width=device-width, initial-scale=1',
   robots: 'index, follow',
+}
+
+export const viewport: Viewport = {
+  width: 'device-width',
+  initialScale: 1,
 }
 
 export default function RootLayout({

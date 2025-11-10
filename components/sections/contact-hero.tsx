@@ -15,7 +15,7 @@ export function ContactHero() {
             </h1>
             
             <p className="text-xl md:text-2xl text-slate-600 mb-12 leading-relaxed">
-              Ready to rediscover your professional confidence? Let's discuss your career goals 
+              Ready to rediscover your professional confidence? Let&apos;s discuss your career goals 
               and find the perfect soft skills training program for your comeback journey.
             </p>
 
@@ -30,7 +30,7 @@ export function ContactHero() {
                 </div>
                 <h3 className="text-lg font-semibold text-cc-charcoal mb-2">Send a Message</h3>
                 <p className="text-cc-slate text-sm">
-                  Share your career goals and I'll get back to you within 24 hours
+                  Share your career goals and I&apos;ll get back to you within 24 hours
                 </p>
               </motion.div>
               

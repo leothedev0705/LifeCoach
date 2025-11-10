@@ -45,11 +45,11 @@ export function AboutTimeline() {
         <Reveal>
           <div className="text-center mb-16">
             <h2 className="text-4xl md:text-6xl font-playfair font-bold text-slate-800 mb-6">
-              Anita's <span className="text-gradient">Journey</span>
+              Anita&apos;s <span className="text-gradient">Journey</span>
             </h2>
             <p className="text-xl text-slate-600 max-w-3xl mx-auto">
-              From corporate success to family sabbatical and back to professional excellence—here's 
-              how Anita's personal experience drives her mission to help professionals shine again.
+              From corporate success to family sabbatical and back to professional excellence—here&apos;s 
+              how Anita&apos;s personal experience drives her mission to help professionals shine again.
             </p>
           </div>
         </Reveal>

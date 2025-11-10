@@ -59,7 +59,7 @@ export function BookHero() {
               <p className="text-xl md:text-2xl text-slate-600 leading-relaxed max-w-3xl mx-auto">
                 The transformational guide that reveals the exact strategies successful people 
                 use to overcome obstacles, silence self-doubt, and create the extraordinary life 
-                they've always dreamed of.
+                they&apos;ve always dreamed of.
               </p>
             </div>
           </Reveal>
@@ -69,7 +69,7 @@ export function BookHero() {
             <div className="mb-12">
               <p className="text-lg text-slate-600 mb-2">by</p>
               <h2 className="text-3xl font-playfair font-bold text-slate-800">
-                Anita D'Souza
+                Anita D&apos;Souza
               </h2>
               <p className="text-slate-600">Life & Success Coach, Transformation Expert</p>
             </div>
@@ -105,8 +105,8 @@ export function BookHero() {
           <Reveal delay={0.6}>
             <div className="mt-16 max-w-2xl mx-auto">
               <blockquote className="text-lg italic text-slate-600 mb-4">
-                "This book completely transformed my perspective on what's possible. 
-                Within 6 months, I doubled my income and found the confidence to start my dream business."
+                &quot;This book completely transformed my perspective on what&apos;s possible. 
+                Within 6 months, I doubled my income and found the confidence to start my dream business.&quot;
               </blockquote>
               <cite className="text-sm font-medium text-slate-700">
                 - Sarah Chen, Entrepreneur

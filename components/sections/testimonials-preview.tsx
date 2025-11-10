@@ -59,7 +59,7 @@ export function TestimonialsPreview() {
               Success <span className="text-gradient">Stories</span>
             </h2>
             <p className="text-xl text-slate-600 max-w-3xl mx-auto">
-              Real transformations from real people. Here's what our clients say 
+              Real transformations from real people. Here&apos;s what our clients say 
               about their journey to extraordinary success.
             </p>
           </div>
@@ -81,7 +81,7 @@ export function TestimonialsPreview() {
 
                   {/* Testimonial Text */}
                   <blockquote className="text-slate-700 leading-relaxed mb-6 flex-grow italic">
-                    "{testimonial.text}"
+                    &quot;{testimonial.text}&quot;
                   </blockquote>
 
                   {/* Achievement */}

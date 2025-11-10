@@ -109,7 +109,7 @@ export function BookTestimonials() {
 
                   {/* Testimonial Text */}
                   <blockquote className="text-slate-700 leading-relaxed mb-6 flex-grow">
-                    "{testimonial.text}"
+                    &quot;{testimonial.text}&quot;
                   </blockquote>
 
                   {/* Author */}

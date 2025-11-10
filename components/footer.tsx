@@ -66,7 +66,7 @@ export function Footer() {
                 whileHover={{ scale: 1.05 }}
                 className="font-playfair text-3xl font-bold text-amethyst-400 mb-4 cursor-pointer"
               >
-                Anita D'Souza
+                Anita D&apos;Souza
               </motion.div>
             </Link>
             <p className="text-slate-400 mb-6 leading-relaxed">
@@ -172,7 +172,7 @@ export function Footer() {
         <div className="border-t border-slate-800 pt-8 text-center text-slate-400 text-sm">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p>
-              &copy; {new Date().getFullYear()} Anita D'Souza Life Coaching. All rights reserved.
+              &copy; {new Date().getFullYear()} Anita D&apos;Souza Life Coaching. All rights reserved.
             </p>
             <div className="flex items-center space-x-1 mt-4 md:mt-0">
               <span>Made with</span>
